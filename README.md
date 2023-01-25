@@ -3,8 +3,8 @@
 
 Time-tracking-app is a cross-platform mobile tool for the time mangement. It is written in Dart using [Flutter](https://flutter.io).
 
-# The task file [PDF](file/Take-Home_Challenge_for_Flutter_Mobile_Developer.pdf "PDF")
-# APK [🔗 apk file](file/release/app-release.apk "APK")
+# The task file [PDF](res/Take-Home_Challenge_for_Flutter_Mobile_Developer.pdf "PDF")
+# APK [🔗 apk file](res/release/app-release.apk "APK")
 # App preview
 
 <p align="center">
