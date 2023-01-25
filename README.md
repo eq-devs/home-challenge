@@ -8,18 +8,18 @@ Time-tracking-app is a cross-platform mobile tool for the time mangement. It is 
 # App preview
 
 <p align="center">
-  <img src="file/screenshots/1.jpg" width="200" hspace="4">
-  <img src="file/screenshots/2.jpg" width="200" hspace="4">
-  <img src="file/screenshots/3.jpg" width="200" hspace="4">
-  <img src="file/screenshots/4.jpg" width="200" hspace="4">
-  <img src="file/screenshots/5.jpg" width="200" hspace="4">
-  <img src="file/screenshots/6.jpg" width="200" hspace="4">
-  <img src="file/screenshots/7.jpg" width="200" hspace="4">
-  <img src="file/screenshots/8.jpg" width="200" hspace="4">
-  <img src="file/screenshots/9.jpg" width="200" hspace="4">
-  <img src="file/screenshots/10.jpg" width="200" hspace="4">
-  <img src="file/screenshots/11.jpg" width="200" hspace="4">
-  <img src="file/screenshots/12.jpg" width="200" hspace="4">
+  <img src="res/screenshots/1.jpg" width="200" hspace="4">
+  <img src="res/screenshots/2.jpg" width="200" hspace="4">
+  <img src="res/screenshots/3.jpg" width="200" hspace="4">
+  <img src="res/screenshots/4.jpg" width="200" hspace="4">
+  <img src="res/screenshots/5.jpg" width="200" hspace="4">
+  <img src="res/screenshots/6.jpg" width="200" hspace="4">
+  <img src="res/screenshots/7.jpg" width="200" hspace="4">
+  <img src="res/screenshots/8.jpg" width="200" hspace="4">
+  <img src="res/screenshots/9.jpg" width="200" hspace="4">
+  <img src="res/screenshots/10.jpg" width="200" hspace="4">
+  <img src="res/screenshots/11.jpg" width="200" hspace="4">
+  <img src="res/screenshots/12.jpg" width="200" hspace="4">
 </p>
 
  
