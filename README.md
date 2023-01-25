@@ -103,7 +103,7 @@ There you go, you can now open & edit the project. Enjoy!
 
 ## Contributing
 
-If you want to take the time to make this project better, please read the [contributing guides](https://github.com/Ekmadish/home-challenge-time-tracking-app-/blob/master/CONTRIBUTING.md) first. Then, you can open an new [issue](https://github.com/Ekmadish/home-challenge-time-tracking-app-/issues/new), of a [pull request](https://github.com/Ekmadish/home-challenge-time-tracking-app-/compare).
+If you want to take the time to make this project better, please read the [contributing guides](CONTRIBUTING.md) first. Then, you can open an new [issue](https://github.com/Ekmadish/home-challenge-time-tracking-app-/issues/new), of a [pull request](https://github.com/Ekmadish/home-challenge-time-tracking-app-/compare).
 
 ## Thanks
 
