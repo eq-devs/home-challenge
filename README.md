@@ -45,25 +45,38 @@ different columns (e.g. "To Do", "In Progress", "Done").
 - **8MB - Fast & Lightweight Simple**
 
 
+### How you can do code formatting?
+
+- if your code is not formatted then run following command in your terminal to format code
+  ```
+  dart format .
+  ```
+## Download & install
+
+First, clone the repository with the 'clone' command, or just download the zip.
+
+```
+$ git git@github.com:Ekmadish/time-tracking-app-home-challenge-.git
+```
 ## Project Structure
 
 After successful build, your application structure should look like this:
 
 ```
-.
+
 ├── android                         - contains files and folders required for running the application on an Android operating system.
 ├── assets                          - contains all images and fonts of your application.
 ├── ios                             - contains files required by the application to run the dart code on iOS platforms.
 ├── lib                             - Most important folder in the project, used to write most of the Dart code.
     │   ├── constants               - contains all constants classes    
-        ├── ....                    - other  constants 
+    |    ├── ....                    - other  constants 
     ├── features
     │   ├── shared                  - shared  methods 
-        ├── ....                    - other  features 
+    |    ├── ....                    - other  features 
     ├── l10n                        - contains localization classes
     ├── services                    - app services and database controllers
-        ├── base                    - base controllers
-        ├── ....                    - other services        
+    |    ├── base                    - base controllers
+    |    ├── ....                    - other services        
     ├── utils                       - contains common files and utilities of project
     ├── main.dart                   - starting point of the application
 
@@ -81,19 +94,6 @@ After successful build, your application structure should look like this:
 Dart SDK Version 2.18.6 or greater.
 Flutter SDK Version 3.0.0 or greater.
 
-### How you can do code formatting?
-
-- if your code is not formatted then run following command in your terminal to format code
-  ```
-  dart format .
-  ```
-## Download & install
-
-First, clone the repository with the 'clone' command, or just download the zip.
-
-```
-$ git git@github.com:Ekmadish/time-tracking-app-home-challenge-.git
-```
 
 Then, download either Android Studio or Visual Studio Code, with their respective [Flutter editor plugins](https://flutter.io/get-started/editor/). For more information about Flutter installation procedure, check the [official install guide](https://flutter.io/get-started/install/).
 
