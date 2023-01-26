@@ -61,7 +61,7 @@ class AppRoot extends StatelessWidget {
         title: 'Flutter Demo',
         showSemanticsDebugger: false,
         debugShowCheckedModeBanner: false,
-        showPerformanceOverlay: true,
+        showPerformanceOverlay: false,
         theme: FlexThemeData.light(
           colors: AppColor.customSchemes[_themeController.schemeIndex].light,
         ),
