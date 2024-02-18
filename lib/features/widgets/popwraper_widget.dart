@@ -21,7 +21,7 @@ class PopWraperWidget extends StatelessWidget {
               topLeft: Radius.circular(16.0), topRight: Radius.circular(16.0))),
       child: Column(
         mainAxisSize: MainAxisSize.min,
-        children: [_buildHandle(context), if (child != null) child],
+        children: [_buildHandle(context), child],
       ),
     );
   }

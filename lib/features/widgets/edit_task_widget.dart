@@ -29,7 +29,7 @@ class _AddTaskFormState extends State<EditTaskForm> {
 
   @override
   Widget build(BuildContext context) {
-    var themeData = Theme.of(context);
+    Theme.of(context);
 
     return Padding(
       padding: MediaQuery.of(context).viewInsets.add(const EdgeInsets.all(20)),

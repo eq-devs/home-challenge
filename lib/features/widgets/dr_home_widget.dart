@@ -116,8 +116,6 @@ class _DgHomeState extends State<DgHome> {
     final md = MediaQuery.of(context);
     final double appBarHeight = appbarH + widget.curvedBodyRadius;
     final double expandedHeight = md.size.height * widget.headerExpandedHeight;
-    final double bottomPadding =
-        widget.bottomNavigationBar == null ? 0 : kBottomNavigationBarHeight;
     return Scaffold(
         resizeToAvoidBottomInset: false,
         backgroundColor:
