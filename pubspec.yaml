@@ -27,7 +27,7 @@ dependencies:
   csv: ^5.0.1
   fluttertoast: ^8.0.9
   intl: ^0.18.0
-  flex_color_scheme: ^6.1.2
+  flex_color_scheme: ^7.3.1
 
 
   
